@@ -9,7 +9,7 @@ RelaX https://dbis-uibk.github.io/relax/landing
 ## Modelo Conceitual
 [![Modelo Conceitual](./AC/print-modeloconceitual_AC.png)](./AC/print-modeloconceitual_AC.png)  
 ## Modelo Logico  
-[![Modelo Logico](./AC/ModeloLogico_AC.docx)]  
+[[Modelo Logico](./AC/ModeloLogico_AC.docx)]  
 
 
 
