@@ -1,0 +1,2 @@
+## Modelo Logico  
+Aluno( matrícula...)
