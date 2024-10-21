@@ -42,6 +42,7 @@ SELECT nomecliente FROM cliente
  -- outro metodo de fazer!!
 SELECT nomecliente, TIMESTAMPDIFF(YEAR, dtnascimento, CURDATE()) AS idade
  FROM cliente
+ WHERE idade > 20
  ORDER BY idade;
 -- EX15
 SELECT DISTINCT idcliente FROM compras
